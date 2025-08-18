@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Darkwater": {
+      "commandName": "Executable",
+      "executablePath": "D:\\SteamLibrary\\steamapps\\common\\Darkwater\\Darkwater.exe",
+      "workingDirectory": "D:\\SteamLibrary\\steamapps\\common\\Darkwater"
+    }
+  }
+}
