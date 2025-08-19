@@ -1,0 +1,6 @@
+{
+    "name": "MorePlayers",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/PuszkaPotato/Darkwater-MorePlayers",
+    "description": "A BepInEx mod for Darkwater that lets you increase the maximum number of players in a lobby. Simple config, easy to use."
+}
